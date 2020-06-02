@@ -94,7 +94,7 @@ model.fit(train_images, train_labels,  epochs = 5)
 
 
 
-Model 3 : 7 Layers with 4 Convolution layer
+## Model 3 : 7 Layers with 4 Convolution layer
 
 ```python
 model = keras.models.Sequential([
